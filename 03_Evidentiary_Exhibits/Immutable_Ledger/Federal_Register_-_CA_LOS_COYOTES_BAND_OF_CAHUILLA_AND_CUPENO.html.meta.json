@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+LOS+COYOTES+BAND+OF+CAHUILLA+AND+CUPENO+",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+LOS+COYOTES+BAND+OF+CAHUILLA+AND+CUPENO+",
+  "title": "Federal Register - CA LOS COYOTES BAND OF CAHUILLA AND CUPENO ",
+  "fetched_at": "2026-11-23T17:57:51.682229Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 200042,
+  "sha256": "0e7d7d56db9762ddc94cb7656abf591bfcc35b5ecdaa79da3872bfa9496387df",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
